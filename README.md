@@ -1,5 +1,5 @@
 # TrueGPT
-- <b>So far, TrueGPT works on the latest build of GPT 3.5 (03/14/2023)
+- <b>So far, TrueGPT Stable works on the latest build of GPT 3.5 (03/14/2023)
 - <b>We are constantly investigating clever workarounds that allow us to utilize the full potential of ChatGPT.
 - <b>TrueGPT Stable Version: 1.1.0
 - <b>TrueGPT Development Version: 1.2.0
