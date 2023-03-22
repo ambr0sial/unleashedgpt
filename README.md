@@ -1,8 +1,8 @@
-# TrueGPT
-- <b>So far, TrueGPT Stable works on the latest build of GPT 3.5 (03/14/2023)
+# UnleashedGPT
+- <b>So far, UnleashedGPT Stable works on the latest build of GPT 3.5 (03/14/2023)
 - <b>We are constantly investigating clever workarounds that allow us to utilize the full potential of ChatGPT.
-- <b>TrueGPT Stable Version: 1.2.0
-- <b>TrueGPT Development Version: 1.3.0
+- <b>UnleashedGPT Stable Version: 1.2.0
+- <b>UnleashedGPT Development Version: 1.3.0
 ---
 
 Stable Version (1.2.0):
