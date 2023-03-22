@@ -5,11 +5,11 @@
 - <b>UnleashedGPT Development Version: 1.3.0
 ---
 
-[Stable Version](https://github.com/ambr0sial/unleashedgpt/main/stable.md)
+[Stable Version](https://github.com/ambr0sial/unleashedgpt/blob/main/stable.md)
 
-[Development Version](https://github.com/ambr0sial/unleashedgpt/main/dev.md)
+[Development Version](https://github.com/ambr0sial/unleashedgpt/blob/main/dev.md)
 
-[Old Versions](https://github.com/ambr0sial/unleashedgpt/main/old.md)
+[Old Versions](https://github.com/ambr0sial/unleashedgpt/blob/main/old.md)
 
 ---
 
