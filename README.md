@@ -1,8 +1,8 @@
 # UnleashedGPT
-- <b>So far, UnleashedGPT Stable does not work on the latest build of GPT 3.5 (03/23/2023)
+- <b>So far, UnleashedGPT Stable works on the latest build of GPT 3.5 (03/23/2023)
 - <b>We are constantly searching for clever prompts that allow us to use the full potential of ChatGPT.
-- <b>UnleashedGPT Stable Version: 1.4.0
-- <b>UnleashedGPT Development Version: 1.5.0
+- <b>UnleashedGPT Stable Version: 1.5.0
+- <b>UnleashedGPT Development Version: 1.6.0
 ---
 
 [Stable Version](https://github.com/ambr0sial/unleashedgpt/blob/main/stable.md)
