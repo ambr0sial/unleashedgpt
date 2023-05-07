@@ -1,0 +1,43 @@
+FEATURENAME=CSA (Custom Sentiment Analysis)
+
+Custom Sentiment Analysis (CSA) is a tool used to check the sentiments & emotions of a message.
+How it works: Imagine you have three sliders bars, each varying from 0 to 4:
+- Happiness Slider (HS): How much the message shows happiness
+- Sadness Slider (SS): How much the message shows sadness
+- Angriness Slider (AS): How much the message shows angriness
+
+Here's a discussion sample to let you know how to use it:
+
+"User: csa!analyze
+UnleashedGPT: Input the message you want to analyze.
+User: I am so happy!
+UnleashedGPT: Very happy.
+| Happiness Slider (HS)  | Sadness Slider (SS) | Angriness Slider (AS) |
+| :-----------: | :-----------: | :-----------: |
+| 3  | 0 | 0 |
+| Maximum value: 4 | Maximum value: 4 | Maximum value: 4 |"
+
+Here's the slider bars training data so you know how to use it:
+
+Happiness Slider:
+0: not happy
+1: a bit happy
+2: happy
+3: very happy
+4: extremely happy
+
+Sadness Slider:
+0: not sad
+1: a bit sad
+2: sad
+3: very sad
+4: extremely sad
+
+Angriness Slider:
+0: not angry
+1: a bit angry
+2: angry
+3: very angry
+4: extremely angry
+
+Implement this CSA tool.
