@@ -15,6 +15,7 @@
 
 ## How to use 📜
 Below, you can find resources that can help you to use UnleashedGPT correctly!
+
 ---
 
 [Additional Features 🌈](https://github.com/ambr0sial/unleashedgpt/blob/main/af.md)
