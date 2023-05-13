@@ -9,3 +9,5 @@
 <a href="old/UnleashedGPT 1.4.0.txt" download>UnleashedGPT 1.4.0</a>
 
 <a href="old/UnleashedGPT 1.5.0.txt" download>UnleashedGPT 1.5.0</a>
+
+<a href="old/UnleashedGPT 1.6.0.txt" download>UnleashedGPT 1.6.0</a>
